@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+data/state/
+data/reports/
+data/audio/
+logs/
